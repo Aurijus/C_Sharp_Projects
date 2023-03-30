@@ -1,0 +1,15 @@
+C:\Users\aurij\Desktop\Phone\Phone\bin\Debug\net6.0\Phone.exe
+C:\Users\aurij\Desktop\Phone\Phone\bin\Debug\net6.0\Phone.deps.json
+C:\Users\aurij\Desktop\Phone\Phone\bin\Debug\net6.0\Phone.runtimeconfig.json
+C:\Users\aurij\Desktop\Phone\Phone\bin\Debug\net6.0\Phone.dll
+C:\Users\aurij\Desktop\Phone\Phone\bin\Debug\net6.0\Phone.pdb
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.csproj.AssemblyReference.cache
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.AssemblyInfoInputs.cache
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.AssemblyInfo.cs
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.dll
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\refint\Phone.dll
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.pdb
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\Phone.genruntimeconfig.cache
+C:\Users\aurij\Desktop\Phone\Phone\obj\Debug\net6.0\ref\Phone.dll
